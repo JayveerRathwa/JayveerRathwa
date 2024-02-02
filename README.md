@@ -26,6 +26,15 @@
  
 <br>
 
+## <img src="https://tenor.com/view/hyper-x-hyper-x-family-juju-smith-schuster-team-juju-console-gamer-gif-17731853.gif" align="center" width='50' height='40'/> I really like music
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31coydyk2vl5ax2cm4nwp7wcjmmi&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31coydyk2vl5ax2cm4nwp7wcjmmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" height="150"/>
+</a>
+</p>
+
+<br>
+
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = '35'/> Languages and Tools:
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="55"/>
