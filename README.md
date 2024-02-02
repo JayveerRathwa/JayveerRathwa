@@ -43,6 +43,6 @@
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' align="top" width='30' /> My Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayveerrathwa&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayveerrathwa&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayveerrathwa&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayveerrathwa&theme=dark" width="400">
 </p>
