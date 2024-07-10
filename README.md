@@ -13,9 +13,11 @@
 
 <br>
 
-<img width="380" align="right" alt="Github" src="https://tenor.com/view/seedhemaut-calm-encore-tbsm-namastute-gif-27229054.gif" /> 
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img width="380" align="right" alt="Github" src="https://tenor.com/view/seedhemaut-calm-encore-tbsm-namastute-gif-27229054.gif" /> 
+
 - 🏦 Currently pursuing a B.Tech in ICT at DAIICT, Gandhinagar.
 - 🌱 I’m currently learning backend development.
 - 👨‍💻 I’m looking for something new or creating some project.
